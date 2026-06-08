@@ -1,5 +1,7 @@
 # 📊 Análisis Estratégico del Modelo de Desarrollo del Salar de Uyuni
 
+![Uyuni-Strategic-Intelligence](assets/heroSalar.png)
+
 **Turismo Sostenible vs. Explotación Extractiva de Litio**
 
 Análisis estratégico y dashboard en Power BI para evaluar los modelos de desarrollo en el Salar de Uyuni, Bolivia, utilizando datos, modelamiento analítico y visualización avanzada.
